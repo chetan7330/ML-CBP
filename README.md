@@ -4,12 +4,12 @@ This repository contains a Google Colab notebook used for a Machine Learning Cou
 
 ## Project Overview
 
-The notebook walks through:\n
+The notebook walks through: <br/>
   -> Loading and exploring datasets<br/>
   -> Data preprocessing and feature selection <br/>
-  -> Training various machine learning models (e.g., Logistic Regression, Random Forest, etc.)
-  -> Evaluating model performance using accuracy, confusion matrix, etc.
-  -> Visualizing results using `matplotlib` and `seaborn`
+  -> Training various machine learning models (e.g., Logistic Regression, Random Forest, etc.) <br/>
+  -> Evaluating model performance using accuracy, confusion matrix, etc. <br/>
+  -> Visualizing results using `matplotlib` and `seaborn` <br/>
 This project is useful for students or beginners looking to understand end-to-end ML workflows.
 
 ## Repository Structure
@@ -22,16 +22,16 @@ ML-CBP/
 
 ## Requirements
 
-You can run this notebook directly in Google Colab, which already has most dependencies pre-installed.
+You can run this notebook directly in Google Colab, which already has most dependencies pre-installed. <br/>
 
-If running locally:
-  -> Python 3.7+
-  -> Required libraries:
-      -> pandas
-      -> numpy
-      -> scikit-learn
-      -> matplotlib
-      -> seaborn
+If running locally: <br/>
+  -> Python 3.7+ <br/>
+  -> Required libraries: <br/>
+      -> pandas <br/>
+      -> numpy <br/>
+      -> scikit-learn <br/>
+      -> matplotlib <br/>
+      -> seaborn <br/>
 
 Install all dependencies:
 ```bash
@@ -53,14 +53,14 @@ cd ML-CBP
    Click the badge below or upload the .ipynb file to Google Colab:
 
 ## Results
--> Accuracy scores for various models
--> Confusion matrix heatmaps
+-> Accuracy scores for various models <br/>
+-> Confusion matrix heatmaps <br/>
 -> Insights on best-performing models
 
 ## License
 This project is open-source and available under the MIT License.
 
 ## Acknowledgements
--> Google Colab for the free GPU/TPU platform
--> scikit-learn for the ML models
--> kaggle datasets for sample data
+-> Google Colab for the free GPU/TPU platform <br/>
+-> scikit-learn for the ML models <br/>
+-> kaggle datasets for sample data <br/>
