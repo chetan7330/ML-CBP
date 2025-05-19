@@ -12,7 +12,7 @@ The notebook walks through:
   -> Visualizing results using `matplotlib` and `seaborn`
 This project is useful for students or beginners looking to understand end-to-end ML workflows.
 
-##Repository Structure
+## Repository Structure
 ```bash
 ML-CBP/
 ├── ML_CBP_Notebook.ipynb       # Main Google Colab notebook
@@ -20,7 +20,7 @@ ML-CBP/
 └── datasets/                   # (Optional) Directory to store local datasets
 ```
 
-##Requirements
+## Requirements
 
 You can run this notebook directly in Google Colab, which already has most dependencies pre-installed.
 
@@ -42,7 +42,7 @@ You can create a `requirements.txt` using:
 pip freeze > requirements.txt
 ```
 
-##Getting Started
+## Getting Started
 
 1. Clone the Repository
 ```bash
@@ -52,15 +52,15 @@ cd ML-CBP
 2. Open in Google Colab
    Click the badge below or upload the .ipynb file to Google Colab:
 
-##Results
+## Results
 -> Accuracy scores for various models
 -> Confusion matrix heatmaps
 -> Insights on best-performing models
 
-##License
+## License
 This project is open-source and available under the MIT License.
 
-##Acknowledgements
+## Acknowledgements
 -> Google Colab for the free GPU/TPU platform
 -> scikit-learn for the ML models
 -> kaggle datasets for sample data
