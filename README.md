@@ -4,9 +4,9 @@ This repository contains a Google Colab notebook used for a Machine Learning Cou
 
 ## Project Overview
 
-The notebook walks through:
-  -> Loading and exploring datasets  
-  -> Data preprocessing and feature selection
+The notebook walks through:\n
+  -> Loading and exploring datasets<br/>
+  -> Data preprocessing and feature selection <br/>
   -> Training various machine learning models (e.g., Logistic Regression, Random Forest, etc.)
   -> Evaluating model performance using accuracy, confusion matrix, etc.
   -> Visualizing results using `matplotlib` and `seaborn`
